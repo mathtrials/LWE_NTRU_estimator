@@ -16,3 +16,7 @@ params = LWE.Parameters(n=2^14, q=2^438, Xs = ND.Uniform(-1,1,n), Xe=ND.Discrete
 https://github.com/pq-crystals/security-estimates
 ```
 
+# NTRU Estimator
+```console
+https://github.com/tprest/ModFalcon/tree/master/Security_script
+```
