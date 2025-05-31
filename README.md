@@ -6,7 +6,7 @@ https://github.com/malb/lattice-estimator
 ```
 
 ### Source for custom command: https://crypto.stackexchange.com/questions/112431/urgent-help-with-lwe-estimator
-To test for custom commands:
+Commnd to test for custom paramters:
 ```console
 params = LWE.Parameters(n=2^14, q=2^438, Xs = ND.Uniform(-1,1,n), Xe=ND.DiscreteGaussian(3.19))
 ```
