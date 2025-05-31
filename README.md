@@ -10,3 +10,9 @@ To test for custom commands:
 ```console
 params = LWE.Parameters(n=2^14, q=2^438, Xs = ND.Uniform(-1,1,n), Xe=ND.DiscreteGaussian(3.19))
 ```
+
+## Module LWE Estimator
+```console
+https://github.com/pq-crystals/security-estimates
+```
+
